@@ -1,0 +1,41 @@
+title: Page
+preset: page
+pages: false
+fields:
+  sl:
+    label: URL fragment
+    type: text
+    required: true
+    help: sera automatiquement converti en “slug”
+  emailprefix:
+    label: Préfixe
+    type: textarea
+    when:
+      tpl: email 
+  letterprefix:
+    label: Préfixe
+    type: textarea
+    when:
+      tpl: lettre 
+  text:
+    label: Text
+    type: textarea
+    size: large
+sidebar:
+  styles:
+    type: fields
+    fields:
+      cover:
+        label: Couverture
+        type: files
+        max: 1
+      tpl: 
+        type: select
+        label: Style
+        options:
+          - texte 
+          - lettre
+          - email
+  files:
+    headline: Fichiers
+    type: files

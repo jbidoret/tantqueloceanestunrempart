@@ -1,0 +1,8 @@
+title: Page d’accueil
+preset: page
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
+

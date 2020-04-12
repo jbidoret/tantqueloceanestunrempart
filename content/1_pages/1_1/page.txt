@@ -1,0 +1,51 @@
+Title: 1
+
+----
+
+Sl: Hier matin j’ai été invité à dîner
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix: 
+
+----
+
+Text:
+
+Hier matin j’ai été invité à dîner, pour fêter paraît-il l’anniversaire d’une île. Je n’ai pas demandé laquelle, et pas non plus pourquoi on m’avait choisi moi. J’ai simplement dit « oui ».
+
+On m’avait dit de venir comme j’étais, aussi suis-je sorti de ma cabane au Canada en fin d’après-midi habillé comme je le suis tous les vendredis, c’est-à-dire « au passé ».  « C’est pour ne pas que tu oublies ton ancienne vie » me dit-on chaque fois que je porte ces vêtements, et plus les semaines passent plus je me demande de quelle vie ils me parlent. 
+
+On m’a tant répété qu’avant mon arrivée ici je n’étais qu’une photocopie qui parle une langue de chiffres avec des mots de riches, que je ne vois plus rien dans mes jours antérieurs qui puisse constituer une vie à leurs yeux. Une existence peut-être, « de clone consanguin » pour employer leurs termes, comme une chaîne de faits et de gestes mimés jusque dans leur raison d’être, et dont je ne sais que trop à présent combien aucun n’est assez digne pour eux. J’essaye de l’oublier mais ici -comme dit la règle n°12- « On ne peut rien vouloir tout seul », donc je n’y arrive pas. Pourtant j’essaye quand même, et je continuerai car, comme dit la règle n°8, « il est permis d’espérer ».
+
+En traversant le hall 23N dans mon costume sombre, je vis les fougères arborescentes onduler en silence sous la brise du soir, telles les voiles de navires assoupis. La mer de plantes vertes dessinait à l’entour la même respiration, et la mienne s’arrêta quand, traversant la glycine pendant du haut plafond, le vent refroidit sur mon front la sueur qui y perlait – par habitude sans doute – mais ne la sécha point. Ces temps-ci, souvent la peur m’accompagne quand je suis invité, sans que je sache exactement pourquoi ; mais ma peur, elle, le sait, car c’est à elle qu’ils parlent en s’adressant à moi, du moins c’est ce que je crois.
+
+Je dus contourner les bacs de dahlia, et les pieds de cyathea tous de la taille d’un homme pour atteindre le tapis roulant à l’arrêt, si assiégé de végétation que l’on croirait une piste au milieu d’une forêt. Devant les  écrans noirs, les sièges vides et les comptoirs d’embarquement déserts, les caoutchoucs massifs observèrent impassibles le courant d’air danser autour de mes pas dans le cœur des bambous, ficus, livistonas, et me regardèrent moi du haut de leurs statures aux reflets d’un vert sombre. Tout le monde ou presque ici me regarde ainsi, mais les êtres verts au moins ne me tourmentent pas. En passant parmi eux j'eus, comme souvent, l’envie de leur dire que j’aimerais être végétal moi aussi. Mais je pense qu’ils le savent. Ici tout est un œil de Moscou, même la photosynthèse.
+
+Sorti de cette jungle dont je connais toutes les ombres pour avoir dû les compter une à une pendant des jours entiers lors d’un exercice d’extension du domaine de ma conscience écologique, j’ai rejoint par la passerelle H l’allée centrale du  Terminal 2K, désert à cette heure-ci. 
+
+Le soleil à bout de souffle dessinait sur le sol gris des flaques de lumière blonde que je foulais aux pieds en regardant le ciel derrière les vitres immenses. Comme toutes les fins de semaine l’air semblait presque humain, plus aimable en tout cas que ceux qui m’attendaient, et j'eus soudain envie de sauter par la fenêtre. Non pas pour m’écraser douze mètre plus bas, mais pour nager dans le vide jusqu’au bout de l’univers ; là où les gens n’existent pas, où enfin je serais innocent et absous. Certains aidants ne disent-ils pas « Aide toi et le ciel t’aidera » ? Et il me doit bien ça, tant je m’aide moi-même, me dis-je en m’arrêtant devant un interstice entre deux plaques de verre. 
+
+Les bonnes choses ont une fin dit-on, et regardant les pistes en contrebas, je dis moi que les mauvaises aussi, mais que l’on doit l’écrire soi-même et à la main. J’allais entreprendre de me glisser entre les deux vitres disjointes pour prendre appui sur la poutre de fer avant de m’élancer, quand soudain un oiseau jaillissant de l’ombre d’un pylône poussa un cri strident  et coupa mon élan. Le ciel redevint brutalement un vase vide, sans promesses ni parfums, où la lumière baissait, et je repris ma route le cœur ni lourd ni léger, jusqu’à ce qu’une poubelle me rappelle mes actes de mercredi dernier. 
+
+Le temps recommença alors à peser tout son poids, et me montra les dents  quand, relevant la tête, je vis l’heure sur la grande horloge murale. Je pressai le pas jusqu’à la porte d’embarquement 47, et m’engageai dans le couloir menant à l’escalier les mains moites et le souffle court.
+
+19h précises m’avait-on dit. Qui sait ce que me coûterait une seconde de retard avec ces aidants-là.  Étant presque en retard déjà, je descendis quatre à quatre les marches menant au tarmac et m’élançai sur la piste le cœur battant.
+
+----
+
+Cover:
+
+- dscn0326.jpeg
+
+----
+
+Tpl: texte
+
+----
+
+Prefix: 

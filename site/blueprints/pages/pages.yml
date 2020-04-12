@@ -1,0 +1,11 @@
+title: Pages
+
+columns:
+  - width: 3/3
+    sections:
+      pages:
+        type: pages
+        headline: Pages
+        status: all
+        template: page
+  

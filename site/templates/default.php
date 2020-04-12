@@ -1,1 +1,5 @@
-<h1><?= $page->title() ?></h1>
+<?php snippet('header') ?>
+    <section class="main">
+        <?php snippet("page") ?>
+    </section>
+<?php snippet('footer') ?>

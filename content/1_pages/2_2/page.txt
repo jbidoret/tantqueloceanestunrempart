@@ -1,0 +1,47 @@
+Title: 2
+
+----
+
+Sl: Lettre de François Fillon
+
+----
+
+Emailprefix:
+
+De: francois@rendlargent.fr
+To: ******.****@gmail.com
+On: 2020/03/21
+
+----
+
+Letterprefix: 
+
+----
+
+Text:
+
+Mes cher.e.s compatriotes,
+
+L’idée m’est bien souvent venu de vous écrire ma vérité, comme on écrit depuis son jardin secret une lettre d’amour à ceux que l’on voudrait croiser dans les jardins publics. Ayant consacré ma vie a défendre vôtre intérêt, je n’ai cependant jamais considéré le mien comme assez important pour prendre le temps de me raconter. Et je sais que nombre d’entre vous en sont des plus frustrés.
+Bien des fois je vous ai écrit pourtant, durant les longues années de ma vie politique, mais des livres, tous voués a porter mon projet pour nôtre grande nation. Bien que les ayant signé de mon nom il m’à toujours semblé, a regrets, ne pas avoir trouvé les mots pour y dire l’homme derrière l’homme d’état.
+
+Le temps donc, m’a toujours manqué pour vous parler de moi, mais étant confiné j’y ai beaucoup repensé et, ne sachant que faire pour vous soutenir en ces heures difficiles, j’ai décidé de m’atteler a réparer cette faute. Quoi de plus logique en ces heures où le temps semble comme suspendu que de se retrousser les manches pour rattraper celui qu’on à perdu ?Alors au diable les formules et qu’importe les convenances, souffrez mes cher.e.s compatriotes que je m’adresse a vous comme un voisin accoudé à la haie du jardin, un ami, presque un frère tant vous comptez pour moi.
+
+Nous sommes, mon épouse et moi même, plaisamment confinés en nôtre domaine champêtre où paissent nos chevaux. Souvent passent au loin des vaches, des mésanges et des oies, et des tracteurs aussi, conduits par de fiers agriculteurs au visage marqué par une vie d’honnête labeur, cette valeur d’antan dont nôtre pays manque si cruellement, comme vous le savez tous. Mon épouse s’occupe du jardin, tient la maison en ordre, embellit chaque pièces de fleurs et de peintures entre ses mille et une lecture, et moi je me fais chier. Il faut dire ce qui est.
+
+Pardonnez la crudité du langage mais comme je vous l’ai dit c’est a la bonne franquette hein, pas de chichi entre nous. Je m’ennuie en effet, violemment, tellement vous me manquez. Tellement tout me manque. Le débat, les mains serrés, la boule qui gonflait dans ma gorge comme la lune dans le ciel au moment de parler devant des foules en transe républicaine. Vous, avec qui je partageais tant. La chaleur de vôtre soutien, vos sourires, les étoiles dans vos yeux quand je portais haut vos couleurs… tout cela me hante comme la haute mer hante souvent les marins quand ils reviennent a terre.
+
+Je lis bien sur toujours l’actualité et nôtre président je dois le dire me fait rire. Il est cocasse en effet de constater que ses mesures à lui vident les rues de toutes vies, lors que les miennes autrement plus audacieuses ont mis jusqu’à deux millions et demi de citoyens sur le pavé. Ces gens aigris et lâches, fainéants et traitres à la patrie qu’ensemble nous avons si vaillamment combattu, comme ce fut le cas par exemple lors de ma courageuse réforme des congés payés. Enfin bon, ça m’amuse, mais ça ne change pas grand chose au reste de mes heures.
+Tout va bien oui, c’est sur, je n’ai aucun problèmes, ni financiers, ni autres, je suis en bonne santé. Je fonctionne mais c’est tout. Ma voiture marche très bien elle aussi, la cuisine de ma femme est potable, et même si le jardinier me fatigue un peu à fredonner ses chansons en binant le potager, il-y-a quand même plus grave. Je promène le chien sur nos quatre hectares, parfois je rentre tard, je regarde la télé, le matin je me lève et le soir je me couche. Entre les deux tout va bien c’est certain, je me fais juste chier. Et je…
+
+----
+
+Cover: 
+
+----
+
+Tpl: email
+
+----
+
+Prefix: Lettre de François Fillon
