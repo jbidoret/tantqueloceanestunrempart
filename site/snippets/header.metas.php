@@ -22,14 +22,14 @@
 <meta property="og:locale" content="<?= $kirby->language() ?>">
 
 <?php
-if ($page->cover() != "") :
+if ($page->cover()->isNotEmpty()) :
     $cover = $page->cover()->toFile();
-    if (!$cover) {
-        $cover = page('home')->images()->first();
-    }
-    $og_cover = $cover->thumb(['width' => 1200, 'height' => 630, 'crop' => true]);
+else:
+    $cover = page('home')->images()->first();
+endif;
+$og_cover = $cover->thumb(['width' => 1200, 'height' => 630, 'crop' => true]);
 ?>
 <meta property="og:image" content="<?= $og_cover->url() ?>">
 <meta property="og:image:width" content="<?= $og_cover->width() ?>">
 <meta property="og:image:height" content="<?= $og_cover->height() ?>">
-<?php endif ?>
+
