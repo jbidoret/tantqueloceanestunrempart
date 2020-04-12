@@ -1,7 +1,7 @@
 # Tant que l’océan est un rempart
 
-Un texte de (link: http://quentinarmand.com text: Quentin Armand). 
+Un texte de [Quentin Armand](http://quentinarmand.com). 
 
-Design, code : (link: https://accentgrave.net text: Julien Bidoret ).    
-Hébergement : (link: https://maisondeseditions.fr text: Maison des éditions).
-Typographie : (link: http://collletttivo.it/ text: Messapia), (link: http://collletttivo.it/ text: Sneaky Times), (link: https://www.jetbrains.com/lp/mono/ text: JetBrains Mono).
+Design, code : [Julien Bidoret](https://accentgrave.net).    
+Hébergement : [Maison des éditions](https://maisondeseditions.fr).    
+Typographie : [Messapia](http://collletttivo.it/), [Sneaky Times](http://collletttivo.it/), [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
