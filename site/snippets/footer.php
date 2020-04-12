@@ -2,7 +2,7 @@
         <section class="asuivre">
             <article>
             <p>
-                à suivre…
+                À suivre.
             </p>
             </article>
         </section>
