@@ -9,10 +9,7 @@ Twitter: @julienbidoret
 
 */
 
-@font-face {
-    font-family: "Sprat";
-    src: url("fonts/Sprat_Variable.ttf");
-}
+
 @font-face {
     font-family: "Messapia";
     src: url("fonts/Messapia-Bold.woff") format("woff"),
@@ -64,8 +61,6 @@ Twitter: @julienbidoret
     margin: 0;
     padding: 0;
     border: 0;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
 article, aside, details, figcaption, figure,
@@ -84,7 +79,7 @@ footer, header, hgroup, main, nav, section, summary {
 ::selection {
     background-color: black;
     color: #eee;
-  }
+}
 
 /* Pix
 -------------------------------------------------- */
@@ -97,7 +92,7 @@ img {
 /* Links
 -------------------------------------------------- */
 a {
-    color: black;
+    color: currentColor;
     text-decoration: none;
     transition: color .3s, background .3s, border .3s;
 }
@@ -112,18 +107,17 @@ html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     scroll-behavior: smooth;
-    }
+}
 body {
     margin: 0 auto;
-    font-family: "Times New Roman","SneakyTimes";
     font-family: "SneakyTimes";
     font-size: 1em;
     line-height: 1.5;
     color: #222;
     overflow-x: hidden;
-    }
+}
 
-html, body { height: 100%;}
+html, body { height: 100%; }
 
 /* Header
 -------------------------------------------------- */
@@ -142,7 +136,6 @@ html, body { height: 100%;}
     background-attachment: fixed;
 }    
 .header a {
-    color: #000;
     color:#b2b2b2;
     }
 .logo {
@@ -164,6 +157,7 @@ nav {
     top:0;
     width: 100%;    
     z-index: 1000;
+    font-family: "JetbrainsMono";
 }
 
 nav button{
@@ -171,7 +165,6 @@ nav button{
     background-color: transparent;
     border: none;
     font-size: 1.5rem;
-    font-family: "JetbrainsMono";
     text-align: left;
     outline: none;
     position: absolute;
@@ -187,29 +180,23 @@ nav ul {
 }
 nav.opened ul{ display: block;}
 nav li {
-    font-family: "JetbrainsMono";
     display: inline;
 }
 
 /* Headings
 -------------------------------------------------- */
-h1 {
-    font-size: 1em;
-    }
+h1 { font-size: 1em; }
 h2, h3, h4 {
     font-size: 1em;
     font-weight: 400;
     margin-bottom: .5em;
-    }
+}
 
 
 /* Lists
 -------------------------------------------------- */
 
-ul {
-    list-style-position: inside;
-}
-
+ul { list-style-position: inside; }
 
 /* Main
 -------------------------------------------------- */
@@ -217,7 +204,7 @@ section {
     padding: 0 var(--padding) var(--padding);
     flex: 1;
     position: relative;
-    }
+}
 
 section::after{
     content:"";
@@ -259,38 +246,18 @@ article > h1 {
 }
 
 
-
-.content p,
 .content figure,
-.content ul,
-.content ol {
-    margin-bottom: 1.5em;
-    }
-.content a {
-    color: black;
-    border-bottom:1px solid #aaa ;
-    }
-.content a:hover {
-    border-color: #222;
-    }
-
-/* Text blocks */
 .content p,
 .content ul,
 .content ol {
     max-width: 34em;
+    margin-bottom: 1.5em;
     }
 
-.content ul { 
-    list-style: none;
-    }
-.content ul li:before { 
-    content: "– ";
-    }
+.content ul { list-style: none; }
+.content ul li:before {  content: "– "; }
+.content ol { margin-left: 1em; }
 
-.content ol {
-    margin-left: 1em;
-    }
 .content p+p { margin-top: -1.5em; text-indent: 2em; }
 
 .prefix {
@@ -315,9 +282,7 @@ article > h1 {
 .asuivre {
     padding: 0 0 2em calc( var(--margin) + var(--padding));
 }
-.asuivre article {
-    padding: 0;
-}
+.asuivre article { padding: 0; }
 
 /* Footer
 -------------------------------------------------- */
@@ -327,34 +292,36 @@ footer {
     padding: 1rem var(--padding) 6rem calc( var(--margin) + var(--padding));
     font-size: .75em;
     font-family: "JetBrainsMono";
-    }
-    footer p {
-        max-width: 34rem;
-    }
+}
+footer p {
+    max-width: 34rem;
+}
 
 footer a {
     color: #999;
     border-bottom:1px solid #aaa ;
-    }
+}
 footer a:hover {
     color: #999;
     border-color: tomato;
-    }
+}
 
+/* Form
+-------------------------------------------------- */
 #mc h2 {
     margin: 2em 0 .5em;
     font-weight: 400;
- }    
- #mc input[type=text],
- #mc input[type=email]{
-     background-color: transparent;
-     font-size: inherit;
-     padding: .25em .5em;
-     border: 1px solid #999;
-     min-width: 20em;
-     color:#999;
- }
- #mc input[type=submit]{
+}    
+#mc input[type=text],
+#mc input[type=email]{
+    background-color: transparent;
+    font-size: inherit;
+    padding: .25em .5em;
+    border: 1px solid #999;
+    min-width: 20em;
+    color:#999;
+}
+#mc input[type=submit]{
     background-color: transparent;
     font-size: inherit;
     padding: .25em 1em;
@@ -363,15 +330,23 @@ footer a:hover {
     border-radius: 3px;
     color: #999;
  }
- .mc-field-group {display: flex;}
- .mc-field-group > * { margin-right: 1em;}
+.mc-field-group {display: flex;}
+.mc-field-group > * { margin-right: 1em;}
 
+
+/* Media
+-------------------------------------------------- */
 
 @media (max-width:850px){
     html{ font-size: .95em;}
 }
 
 @media (max-width:700px){
+    :root{
+        --bigsize: 1.25em;
+        --margin: 1.5rem;
+        --padding: 1rem;
+    }
     nav button { right: 0;}
     article > h1 {float: left; }
     .mc-field-group,
@@ -379,11 +354,6 @@ footer a:hover {
         display: block;
     }
     .mc-field-group > * { margin-bottom: .5em; display: block; width: 100%;}
-    :root{
-        --bigsize: 1.25em;
-        --margin: 1.5rem;
-        --padding: 1rem;
-    }
     footer,
     .asuivre {
         padding-left: var(--padding);
@@ -393,10 +363,10 @@ footer a:hover {
     }
 }
 @media (max-width:450px){
-    html{ font-size: .85em;}
+    html { font-size: .85em; }
 }
 
- @media (orientation:portrait){
+@media (orientation:portrait){
     .header::after{
         content:"↓";
         font-family: "Arial";
@@ -405,4 +375,4 @@ footer a:hover {
         bottom: var(--margin);
         font-size: 2em;
     }
- }
+}
