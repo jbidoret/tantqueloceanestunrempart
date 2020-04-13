@@ -79,6 +79,7 @@ footer, header, hgroup, main, nav, section, summary {
     --bigsize: 1.75em;
     --margin: 3rem;
     --padding: 1.5rem;
+    --gradient: linear-gradient(0deg, rgb(3, 63, 119) 0%, rgb(75, 129, 179) 100%);
 }
 ::selection {
     background-color: black;
@@ -114,6 +115,7 @@ html {
     }
 body {
     margin: 0 auto;
+    font-family: "Times New Roman","SneakyTimes";
     font-family: "SneakyTimes";
     font-size: 1em;
     line-height: 1.5;
@@ -123,12 +125,6 @@ body {
 
 html, body { height: 100%;}
 
-/* Page
--------------------------------------------------- */
-.page {
-    
-}
-
 /* Header
 -------------------------------------------------- */
 .header {
@@ -136,8 +132,18 @@ html, body { height: 100%;}
     background: white;
     height: 100%;
     }
+.header::after{
+    content:"";
+    position: absolute;
+    pointer-events: none;
+    top:0; left:0; right:0; bottom:0;
+    background: var(--gradient); 
+    mix-blend-mode: color-burn;
+    background-attachment: fixed;
+}    
 .header a {
     color: #000;
+    color:#b2b2b2;
     }
 .logo {
     font-family: "Messapia";
@@ -157,7 +163,7 @@ nav {
     position: sticky;
     top:0;
     width: 100%;    
-    z-index: 100;
+    z-index: 1000;
 }
 
 nav button{
@@ -237,7 +243,7 @@ article::after{
     position: absolute;
     pointer-events: none;
     top:0; left:0; right:0; bottom:0;
-    background: linear-gradient(0deg, rgb(3, 39, 93) 0%, rgb(7, 92, 219) 100%); 
+    background: var(--gradient); 
     mix-blend-mode: color-burn;
     background-attachment: fixed;
 }
