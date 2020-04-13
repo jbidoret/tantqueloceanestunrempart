@@ -201,8 +201,7 @@ ul { list-style-position: inside; }
 /* Main
 -------------------------------------------------- */
 section {
-    padding: 0 var(--padding) var(--padding);
-    flex: 1;
+    padding: 0;
     position: relative;
 }
 
@@ -219,11 +218,11 @@ article {
     font-size: var(--bigsize);
     line-height: 1.35;
     display: flex;
-    margin: 0em 0 0em;
-    padding-top: 3.5rem;
+    margin: 0;
     background-color: white;
     color:#b2b2b2;
     padding-right: var(--margin);
+    padding: 3.5rem var(--margin) 0 var(--padding);
 }
 article::after{
     content:"";
@@ -244,7 +243,10 @@ article > h1 {
     position: relative; 
     z-index: 200;
 }
-
+article :last-child {
+    margin-bottom: 0 !important;
+    padding-bottom: 1em;
+}
 
 .content figure,
 .content p,
@@ -292,6 +294,7 @@ footer {
     padding: 1rem var(--padding) 6rem calc( var(--margin) + var(--padding));
     font-size: .75em;
     font-family: "JetBrainsMono";
+    line-height: 1.6;
 }
 footer p {
     max-width: 34rem;
@@ -349,10 +352,11 @@ footer a:hover {
     }
     nav button { right: 0;}
     article > h1 {float: left; }
-    .mc-field-group,
     article {
         display: block;
+        padding-right: calc(var(--padding) * 2);
     }
+    .mc-field-group{ display: block;}
     .mc-field-group > * { margin-bottom: .5em; display: block; width: 100%;}
     footer,
     .asuivre {
@@ -367,12 +371,13 @@ footer a:hover {
 }
 
 @media (orientation:portrait){
-    .header::after{
+    .header a::after{
+        display: block;
         content:"↓";
         font-family: "Arial";
         font-weight: normal;
         position: absolute;
         bottom: var(--margin);
-        font-size: 2em;
+        font-size: 2rem;
     }
 }
