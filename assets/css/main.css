@@ -203,6 +203,7 @@ ul { list-style-position: inside; }
 section {
     padding: 0;
     position: relative;
+    overflow: hidden;
 }
 
 section::after{
@@ -223,6 +224,7 @@ article {
     color:#b2b2b2;
     padding-right: var(--margin);
     padding: 3.5rem var(--margin) 0 var(--padding);
+    overflow: hidden;
 }
 article::after{
     content:"";
@@ -281,10 +283,9 @@ article :last-child {
 
 /* À suivre
 -------------------------------------------------- */
-.asuivre {
+.asuivre article {
     padding: 0 0 2em calc( var(--margin) + var(--padding));
 }
-.asuivre article { padding: 0; }
 
 /* Footer
 -------------------------------------------------- */
@@ -359,7 +360,7 @@ footer a:hover {
     .mc-field-group{ display: block;}
     .mc-field-group > * { margin-bottom: .5em; display: block; width: 100%;}
     footer,
-    .asuivre {
+    .asuivre article {
         padding-left: var(--padding);
     }
     footer {
