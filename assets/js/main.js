@@ -42,14 +42,28 @@
     updateHistory.timeout = setTimeout(function () {
       if (window.location.hash !== hash) {
         if (location.hash !== '') {
+          updateOGP(hash);
           history.pushState({}, window.title, hash);
         } else {
-          
           // On first page load update the URL in place
           history.replaceState({}, window.title, hash);
         }
       }
     }, 1000);
+  }
+
+  /* Update OGP */
+  function updateOGP(hash){
+    var el = document.querySelector(hash);
+    var attributes = [ "url", "title", "description", "image"];
+    if(el){
+      attributes.forEach(attr => {
+        const content = el.getAttribute('data-' + attr);
+        console.log(content);
+        
+        $`meta[property="og:${attr}"]`.setAttribute('content', content);
+      });
+    }
   }
 
   const iO = new IntersectionObserver(entries => entries.forEach(entry => {
