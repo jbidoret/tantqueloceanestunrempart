@@ -125,6 +125,8 @@ html, body { height: 100%; }
     padding: var(--padding);
     background: white;
     height: 100%;
+    position: relative;
+    overflow: hidden;
     }
 .header::after{
     content:"";
