@@ -172,6 +172,7 @@ nav button{
     position: absolute;
     right: var(--padding);
     padding: .5rem var(--padding);
+    font-family: "JetbrainsMono";
 }
 nav ul {
     list-style-type: none;
