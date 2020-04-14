@@ -1,6 +1,6 @@
 <title><?= $site->title()->html() . r($page !== $site->homePage(),  ' – ' . $page->title()->html() ) ?></title>
 
-<meta name="description" content="<?php e($page->text()->isNotEmpty(), $page->text()->excerpt(255), "Un texte de Quentin Armand – Design de Julien Bidoret – Maison des éditions.") ?>">
+<meta name="description" content="<?php e($page->text()->isNotEmpty(), $page->text()->excerpt(255), "Un texte de Quentin Armand.") ?>">
 <meta name="keywords" content="<?= $site->keywords()->text() ?>">
 
 
@@ -20,7 +20,7 @@
 <meta property="og:url" content="<?= $site->url() ?>">
 <meta property="og:type" content="website">
 <meta property="og:title" content="<?= r($page !== $site->homePage(), $page->title()->html() . ' | ') . $site->title()->html() ?>">
-<meta property="og:description" content="<?php e($page->text()->isNotEmpty(), $page->text()->excerpt(255), "Un texte de Quentin Armand – Design de Julien Bidoret – Maison des éditions.") ?>">
+<meta property="og:description" content="<?php e($page->text()->isNotEmpty(), $page->text()->excerpt(255), "Un texte de Quentin Armand.") ?>">
 <meta property="og:site_name" content="<?= $site->title() ?>">
 <meta property="og:locale" content="<?= $kirby->language() ?>">
 
@@ -39,7 +39,7 @@ $og_cover = $cover->thumb(['width' => 1200, 'height' => 630, 'crop' => true]);
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@julienbidoret" />
 <meta name="twitter:title" content="<?= $site->title() ?>" />
-<meta name="twitter:description" content="<?php e($page->text()->isNotEmpty(), $page->text()->excerpt(255), "Un texte de Quentin Armand – Design de Julien Bidoret – Maison des éditions.") ?>" />
+<meta name="twitter:description" content="<?php e($page->text()->isNotEmpty(), $page->text()->excerpt(255), "Un texte de Quentin Armand.") ?>" />
 <meta name="twitter:image" content="<?= $og_cover->url() ?>" />
 
 
