@@ -14,11 +14,12 @@
 
 </head>
 <body
+    
     data-login="<?php e($kirby->user(),'true', 'false') ?>"
     data-template="<?php echo $page->template() ?>"
     data-intended-template="<?php echo $page->intendedTemplate() ?>">
 
-
+    <div id="container" >
 
     <header class="header">
         <a class="logo" href="<?= $site->url() ?>">
@@ -26,7 +27,7 @@
         </a>
     </header>
 
-    <main class="page">
+    <main class="page" id="main">
         <nav>
         <?php $ps = page('pages')->children()->listed()  ?>
         <button><span>≈</span></button>

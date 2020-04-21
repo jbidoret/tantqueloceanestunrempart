@@ -1,7 +1,8 @@
 (function() {
   'use strict';
 
-  
+  PageScrollIndicator.createProgressBar("container", "main");
+
   /* 
       Short cuts for document querySelector and querySelectorAll
       which can handle being used as template tags $`main` or $$`div`      
