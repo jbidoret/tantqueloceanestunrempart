@@ -1,0 +1,34 @@
+Title: 10
+
+----
+
+Sl: Dans les flaques
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix: 
+
+----
+
+Text:
+
+Dans les flaques de l’archipel, quelques oiseaux buvaient. J’avais soif moi aussi, faim, mal à la tête à cause des coups de cake, et le sucre de toutes les pâtisseries écrasées sur mon visage m’avait écorché la peau mais, vraiment, je m’en sortais bien me disais-je encore en longeant la tour de contrôle n°7. L’étrange sentiment que la terre ne tournait pas dans le bon sens ressenti peu avant la première tarte hier au soir acheva de se dissiper quelques mètres plus loin quand j'atteignis l’orée du bosquet de bambous, là où quinze jours plus tôt j’avais participé à un atelier d’extension agricole du domaine du football.
+
+Dessinées à la craie sur la piste 60, les lignes du terrain formaient le réceptacle des idées de chacun, des aidant.e.s principalement, quelques permanent.e.s aussi, et moi que l’on encourageait sans trêve à jeter mes carcans aux orties pour “habiter“ l’espace. Il ne s’agissait pas en effet d’imaginer y faire pousser le gazon le plus souple et plus résistant afin que le talent des joueurs puisse s’exprimer au mieux, mais au contraire de proposer les circonstances végétales les plus personnelles possibles pour s’exprimer soi à travers le terrain, sans se soucier de l’intérêt supérieur du jeu.
+L’intérêt supérieur il n’y en n’avait pas qu’un, tout le monde avait le sien et l’enjeu était de les convertir tous en morceaux de terrain pour que le jeu lui-même s’adapte aux “visions“ des uns et des autres, et non l’inverse. L’un des permanent.e.s avait ainsi entrepris de faire pousser des bambous près du poteau de corner, parce que disait-il, leur présence inspirerait le mystère et la lointaine Asie, qu’en plus leurs troncs souples obligeraient à dribbler et qu’il aimait les arabesques des manieurs de ballon. Un autre avait planté des rosiers afin que la délicatesse des fleurs suggère la douceur bien plus que l’affrontement. Parmi les épines, les joueurs devraient marcher, mûrir chaque pas comme les vers d’un poème, ce serait d’une délicatesse follement improbable. Peupliers, séquoïas, pommiers ou cactus peuplaient le reste du rectangle et chaque contributeur évoquait à travers eux ses désirs d’un jeu plus ouvert, multiple, polymorphe, un jeu fait de métamorphoses et de composition face aux circonstances de la vie du ballon, plutôt qu’une forme d’action s’imposant à tout le reste et obligeant les arbres et les fleurs à s’élever ailleurs. 
+
+Ils appelaient cela du “nenni-néo“, en référence au néo-libéralisme, doctrine selon eux toute-puissante chez les gens de ma caste, dont leur compréhension -permettez-moi de le dire- était un peu sommaire. Dans cette théorie économique on pense en effet que la vie est un jeu auquel chacun doit jouer, riche, pauvre, éduqué, jeune, vieux, autiste, ou demeuré ; qu’une loi prévaut sur les autres, celle de la jungle où survivent les forts et où périssent les faibles ; et qu’une façon de faire société, la mise en concurrence permanente et totale de tous et de tout le monde dans un cadre légal, est la voie du progrès. La seule qui vaille. Moi aussi je le pensais mais uniquement dans le cadre de mes activités de conseiller au ministère de la culture. Je n’ai jamais prétendu que ces règles devaient s’appliquer à toute la communauté nationale, même si je ne vois guère de quel contrat social on peut parler si certaines choses ne sont pas établies comme indiscutables. Le mérite par exemple, la valeur de l’effort comme celle du capital sont pour moi intouchables. Le capital ne représente-t’il pas des efforts ? N’est-il pas l’eau-de-vie dont le travail est l’alambic ? Sachant qu’à ces questions légitimes on m’opposerait des rires ou des travaux forcés au potager, je n’ai rien dit bien sûr, mais je persiste à penser que quoi qu’on en dise, le néo-libéralisme, même s’il n’est pas parfait donne un sens à la vie. Il propose en effet une perspective, un cadre où le travail paye et où la paresse à l’inverse  ne produit qu’infamie. Mais eux le sens de la vie ils s’en fichaient pas mal. Ils se croyaient capables d’en inventer des tas, alors j’ai fait comme eux et proposé de planter des tulipes au motif qu’elles étaient symboliques de l’émergence de la spéculation en Hollande au XVII ème (la Tulipomanie) et qu’il s’agissait désormais de piétiner ces usages du passé. Je crois avoir marqué des points ce jour-là, même si la vraie raison c’est que dans ma vie d’avant il y avait une femme parfois, que nous étions le jour de son anniversaire, et qu’elle était d’origine Hollandaise. 
+
+Est-ce pour cela que le soir venant, contemplant le fruit de nos efforts, quelque chose en moi avait souri ? Je ne sais, comme je ne sais pas ce qui au juste en ma personne s’était réjoui. Depuis que les aidant.e.s de ce moment de jardinage conceptuel étaient partis cela ne m’était plus arrivé. Jusqu’à ce matin, peut-être parce que demain les aidant.e.s d’hier soir quitteraient l’aéroport.
+
+----
+
+Cover: 
+
+----
+
+Tpl: texte
