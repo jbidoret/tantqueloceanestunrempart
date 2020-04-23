@@ -31,10 +31,12 @@
   // scroll to if not on home
   if (root_url != page_url) {
     const my_article = $`#${page_slug}`;    
-    window.scrollTo({
-      top: my_article.getBoundingClientRect().top  + window.pageYOffset,
-      behavior: 'smooth',
-    })
+    setTimeout(function(){
+      window.scrollTo({
+        top: my_article.getBoundingClientRect().top  + window.pageYOffset,
+        behavior: 'smooth',
+      })
+    }, 1000)
   }
 
   /* Update the window URL on swipe, this is throttled so that the history doesn't get filled with useless entries*/
