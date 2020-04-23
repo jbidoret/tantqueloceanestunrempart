@@ -17,7 +17,7 @@
 
 
 
-<meta property="og:url" content="<?= $site->url() ?>">
+<meta property="og:url" content="<?= $page->url() ?>">
 <meta property="og:type" content="website">
 <meta property="og:title" content="<?= r($page !== $site->homePage(), $page->title()->html() . ' | ') . $site->title()->html() ?>">
 <meta property="og:description" content="<?php e($page->text()->isNotEmpty(), $page->text()->excerpt(255), "Un texte de Quentin Armand.") ?>">
