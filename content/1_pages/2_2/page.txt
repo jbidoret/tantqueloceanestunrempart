@@ -18,6 +18,10 @@ Letterprefix:
 
 ----
 
+Recitprefix: Oyez
+
+----
+
 Text:
 
 Mes cher.e.s compatriotes,
@@ -40,7 +44,7 @@ Cover:
 
 ----
 
-Tpl: email
+Tpl: recit
 
 ----
 

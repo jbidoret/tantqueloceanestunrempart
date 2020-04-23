@@ -300,6 +300,14 @@ article :last-child {
     font-size: 1rem;
     line-height: 1.4;
 }
+.tpl-recit{
+    position: relative;
+    z-index: 500;
+    color: forestgreen;
+    font-family: "Times New Roman", "Times", serif;
+    font-size: 1.25rem;
+    line-height: 1.4;
+}
 
 /* À suivre
 -------------------------------------------------- */

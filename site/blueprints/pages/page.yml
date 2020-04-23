@@ -17,6 +17,11 @@ fields:
     type: textarea
     when:
       tpl: lettre 
+  recitprefix:
+    label: Préfixe
+    type: textarea
+    when:
+      tpl: recit 
   text:
     label: Text
     type: textarea
@@ -36,6 +41,7 @@ sidebar:
           - texte 
           - lettre
           - email
+          - recit
   files:
     headline: Fichiers
     type: files

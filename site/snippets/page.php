@@ -16,14 +16,19 @@
         id="<?= str::Slug($p->sl()) ?>">
         <h1><?= $p->num() ?></h1>
         <div class="content tpl-<?= $p->tpl() ?>">
-        <?php if($p->emailprefix()->isNotEmpty() ) :?>
+        <?php if($p->emailprefix()->isNotEmpty() && $p->tpl() == "email" ) :?>
                 <aside class="prefix">
                     <?= $p->emailprefix()->kt() ?>
                 </aside>
             <?php endif ?>
-            <?php if($p->letterprefix()->isNotEmpty() ) :?>
+            <?php if($p->letterprefix()->isNotEmpty() && $p->tpl() == "letter" ) :?>
                 <aside class="prefix">
                     <?= $p->letterprefix()->kt() ?>
+                </aside>
+            <?php endif ?>
+            <?php if($p->recitprefix()->isNotEmpty() && $p->tpl() == "recit" ) :?>
+                <aside class="prefix">
+                    <?= $p->recitprefix()->kt() ?>
                 </aside>
             <?php endif ?>
             <div class="text">
