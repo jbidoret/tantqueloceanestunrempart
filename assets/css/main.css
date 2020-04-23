@@ -127,6 +127,7 @@ html, body { height: 100%; }
     height: 100%;
     position: relative;
     overflow: hidden;
+    
     }
 .header::after{
     content:"";
@@ -143,13 +144,27 @@ html, body { height: 100%; }
 .logo {
     font-family: "Messapia";
     font-size: 12vw;
-    font-size: min(21vh, 14vw);
+    font-size: min(8vh, 5vw);
     font-weight: 400;
     display: block;
     margin-bottom: 1.5em;
     line-height: 1;
+    height: 100%;
+    display: flex;
+    align-items: center;
     }
-
+.logo::after{
+    content:"";
+    position: absolute;
+    pointer-events: none;
+    top:0; left:0; right:0; bottom:0;
+    background-attachment: fixed;
+    background: url(hokusai.png) no-repeat 50% 50%;
+    background-size: auto 100%;
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: 2000;
+}    
 /* scrollindicator
 -------------------------------------------------- */
 #progress-cont {
@@ -158,13 +173,13 @@ html, body { height: 100%; }
     width: 100%;
     bottom: 0px;
     left: 0px;
-    z-index: 200;
-    }
-    
-    #progress-bar {
+    z-index: 2000;
+}
+
+#progress-bar {
     height: 100%;
     background-color: #374884;
-    }
+}
 
     
     
@@ -319,9 +334,9 @@ article :last-child {
 -------------------------------------------------- */
 footer {
     background-color: black;
-    color: #666;
+    color: #999;
     padding: 1rem var(--padding) 6rem calc( var(--margin) + var(--padding));
-    font-size: .75em;
+    font-size: .8125em;
     font-family: "JetBrainsMono";
     line-height: 1.6;
 }
@@ -330,11 +345,11 @@ footer p {
 }
 
 footer a {
-    color: #999;
+    color: #bbb;
     border-bottom:1px solid #aaa ;
 }
 footer a:hover {
-    color: #999;
+    color: #bbb;
     border-color: tomato;
 }
 
@@ -351,7 +366,7 @@ footer a:hover {
     padding: .25em .5em;
     border: 1px solid #999;
     min-width: 20em;
-    color:#999;
+    color:#bbb;
 }
 #mc input[type=submit]{
     background-color: transparent;
@@ -360,7 +375,7 @@ footer a:hover {
     border: 1px solid #333; 
     background-color: #333;
     border-radius: 3px;
-    color: #999;
+    color: #bbb;
  }
 .mc-field-group {display: flex;}
 .mc-field-group > * { margin-right: 1em;}
@@ -400,13 +415,20 @@ footer a:hover {
 }
 
 @media (orientation:portrait){
-    .header a::after{
+    .header a::before{
         display: block;
         content:"↓";
         font-family: "Arial";
         font-weight: normal;
         position: absolute;
         bottom: var(--margin);
+        left: var(--margin);
         font-size: 2rem;
+    }
+    .logo {
+        align-items: flex-start;
+    }
+    .logo::after{
+        background-size: 80% auto;
     }
 }

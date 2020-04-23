@@ -14,12 +14,10 @@
 
 </head>
 <body
-    
+    id="container"  
     data-login="<?php e($kirby->user(),'true', 'false') ?>"
     data-template="<?php echo $page->template() ?>"
     data-intended-template="<?php echo $page->intendedTemplate() ?>">
-
-    <div id="container" >
 
     <header class="header">
         <a class="logo" href="<?= $site->url() ?>">
