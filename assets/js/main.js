@@ -92,6 +92,15 @@
   }, false);
 
 
+  // sgare select
+  Sharect.config({
+    facebook: true,
+    twitter: true,
+    backgroundColor: '#999',
+    iconColor: '#fff',
+    selectableElements: ['p']
+  }).init();
+
 
 
 })();
