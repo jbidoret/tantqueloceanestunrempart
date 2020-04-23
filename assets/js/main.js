@@ -30,7 +30,7 @@
 
   // scroll to if not on home
   if (root_url != page_url) {
-    const my_article = $`[data-url="${page_url}"]`;    
+    const my_article = $`#${page_slug}`;    
     window.scrollTo({
       top: my_article.getBoundingClientRect().top  + window.pageYOffset,
       behavior: 'smooth',
@@ -60,8 +60,6 @@
     if(el){
       attributes.forEach(attr => {
         const content = el.getAttribute('data-' + attr);
-        console.log(content);
-        
         $`meta[property="og:${attr}"]`.setAttribute('content', content);
       });
     }

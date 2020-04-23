@@ -11,7 +11,7 @@
         $og_cover = $cover->thumb(['width' => 1200, 'height' => 630, 'crop' => true]);
         ?>
         data-image="<?= $og_cover->url() ?>" 
-        data-title="<?= $site->title() ?> – <?= $p->sl() ?>"" 
+        data-title="<?= $site->title() ?> – <?= $p->sl() ?>"
         data-url="<?= $p->url() ?>#<?= str::Slug($p->sl()) ?>" 
         id="<?= str::Slug($p->sl()) ?>">
         <h1><?= $p->num() ?></h1>
