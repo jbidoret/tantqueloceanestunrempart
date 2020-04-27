@@ -209,6 +209,7 @@ nav button{
 nav ul {
     list-style-type: none;
     display: none;
+    display: block;
     background: white;
     padding: .65rem var(--padding);
     width: 100%;    
