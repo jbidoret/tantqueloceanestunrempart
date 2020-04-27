@@ -218,7 +218,13 @@ nav.opened ul{ display: block;}
 nav li {
     display: inline;
 }
-
+nav a {
+    border-bottom: 2px solid #fff;
+}
+nav a:hover,
+a.focus{
+    border-bottom: 2px solid #000;
+}
 /* Headings
 -------------------------------------------------- */
 h1 { font-size: 1em; }
