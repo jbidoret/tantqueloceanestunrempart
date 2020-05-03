@@ -9,22 +9,22 @@ fields:
     help: sera automatiquement converti en “slug”
   emailprefix:
     label: Préfixe
-    type: textarea
+    type: markdown
     when:
       tpl: email 
   letterprefix:
     label: Préfixe
-    type: textarea
+    type: markdown
     when:
       tpl: lettre 
   recitprefix:
     label: Préfixe
-    type: textarea
+    type: markdown
     when:
       tpl: recit 
   text:
     label: Text
-    type: textarea
+    type: markdown
     size: large
 sidebar:
   styles:
