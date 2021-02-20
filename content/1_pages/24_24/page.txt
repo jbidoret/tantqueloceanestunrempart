@@ -1,0 +1,55 @@
+Title: 24
+
+----
+
+Sl: Pourtant, j’ai longtemps cru
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix: 
+
+----
+
+Recitprefix: 
+
+----
+
+Text:
+
+Pourtant, j’ai longtemps cru que les a priori étaient à leur manière les piliers de la terre. Que tel les rosiers de la vie il fallait les tailler et les entretenir, pour qu’en retour leurs fleurs inspirent nos relations et embellissent nos heures. 
+
+Merveilleux fruits du sens commun à portée de nos mains, les a priori étaient pour moi l’adn du lien. Présents à nôtre insu en tous autant que nous sommes, ils sont seuls capables de nous faire tous égaux. Car des a priori tout le monde en a, et même si l’on peut dire que chacun a les siens, on peut également dire que chacun a en cela le même capital. Chacun bénéficie d’une part équitable de ce trésor d’intelligence collective, et c’est très bien comme ça.
+
+Où irions nous sinon chercher le mortier pour cimenter nos liens ? Dans les milles nuances de nos vies si distinctes ? Ce serait comme débattre dans des langues brumeuses, chacune dotée d’un alphabet sans fin où l’on tenterait en vain de voir des ressemblances. Sans aucun préalable qui ne soit réciproque, comment donc réunir nos visions pour faire société ? Je me le demande encore car ici on s’en fiche, et même si ils ignorent sur quel sol ériger leur cité de demain les aidant.e.s ont foi dans la disponibilité intellectuelle de tous et toutes pour en inventer un. Pourquoi donc chercher à inventer des moyens quand on en a déjà ? Je ne comprends pas.
+
+Les a priori ne sont ils pas le propre de l’homme ? Devant l'inconnu ne faisons nous pas tous des généralités avec ce que nous avons sous la main ? C’est naturel, et c’est humain. C’est même l’humanité en un sens, du moins c’est ce que je croyais le plus sincèrement du monde. Ranger les gens et les choses dans des cases sans me poser de questions je l’ai fait toute ma vie, avant, et très volontairement, comme tout le monde finalement, mais d’avantage.
+
+C’était mon destin, car j’étais en effet des plus doué pour cela. Dans mon quartier tout le monde l’était supérieurement, peut-être même mon chien. Avoir une opinion sur tout et tout le monde sans réfléchir à rien, rien d’autre que l’intérêt de nôtre communauté c’était là bas une propriété génétique de nôtre environnement, un talent collectif hautement développé. Comme vous j’imagine, nous ne posions pas de questions sur les raisons ou horizons de cet état de fait. Au nom de quoi ? Et pourquoi ? Vous avez déjà vu des gens heureux s’interroger sur le sens de leur vie ?
+
+Plus tard j’ai développé ce don. Mu par l’air si fécond qu’à pleins poumons je respirais dans mon milieu merveilleusement doté par dame nature humaine, si plein des certitudes forgées par des générations de solidarité communautaire, je suis entré à l’École Nationale d’Administration. Ce sanctuaire intellectuel où l’on apprend comment déjouer, contourner, vaincre toutes les résistances partisanes pour mieux servir le bien commun. 
+
+On m’initia à cette magie, aux sortilèges par lesquels faire triompher le vrai, le juste, le sensé à partir de données qui, si disparates et hétérogènes soient elles, établissent toujours l’essence d’un problème. Car c’est là ce qui compte dans l’administration : le sens, la cohérence, l’intelligence en faits, en gestes et en actions. On me changea en alchimiste, capable de changer le réel en chiffres et en lettres déconnectés de toutes réalités, pour mieux les manoeuvrer, les fléchir en une géométrie à même d’unifier toutes ses arborescences en un même projet. On m’appris à déconstruire la chèvre pour déployer le choux, à arrimer les lièvres à mille et une tortue pour que cigales comme fourmis à la fin ne fassent qu’une équation parfaite, et que celle-ci tournant toujours plus vite distille par force centrifuge l’élixir du progrès et qu’il ruisselle sans fin sur les gens du commun.
+
+Une fois diplômé (avec félicitations du jury), c’est devenu mon métier. Et je l’aimais, je l’adorais tant je pensais servir la cause d’un monde meilleur. C’est ce qu’on m’avait dit: de monde plus cohérent que celui auquel nous oeuvrions, il ne pouvait en exister. Croire le contraire, ne fut-ce qu’un instant, pour griser son éthique de moine bénédictin en jouant au sauvageon était une hérésie. Le dire s’avilir, alors “à quoi bon tout cela ?” me demandais-je parfois en regardant de loin les manifestations depuis les hautes tours où j’agissais en humble défenseur de ce qui est droit et sain.
+
+C’est pour cela que la règle n°3 est si difficile pour moi. “Il est permis d’espérer sans fin”. Mais dans ce monde confus que bâtissent les aidant.e.s, qui refuse le juste, l’établi, l’avéré, que peut-on espérer ? Je ne vois pas, du tout, mais j’essaye. On ne me laisse pas le choix.
+
+Un jour, de cette vie désormais révolue je suis devenu le mot “fin”. Depuis, chaque jours est une gueule de bois qui n’est ni tout à fait la même, ni tout à fait une autre, qui ne m’aime pas souvent, et que je ne comprend pas. 
+
+Je cherche le temps disparu, évanoui, disloqué depuis mon arrivée. Mon temps, celui de mes années de haut fonctionnaire débutant, tellement volontaire, et qui voulait bien faire,  est ici un passé criminel et sordide. Alors je creuse en moi pour en trouver la cendre et peut-être comprendre.
+
+J’ai des choses à accomplir pour racheter mon existence et en combler les vides. On me le dit tous les jours entre deux séances d’aide au renouveau. Tant de “pourquoi ?” me manquent. Ma vie toute entière était jusqu’ici tissée de “parce que” magiques, établies non à force de questions ineptes, de bavardages ou de brouillonnes réflexions, mais de pensées construites par des siècles d’usage, d’habitudes, de conscience fortifié et lucide. Et belle. Heureuse. Infinie.
+
+Quand on est né dans un monde sensé, comment peut on imaginer que ce soit un problème pour d’autres ? Et pourquoi on le ferait ? Pourquoi, pourquoi, pourquoi, depuis presque une année toute ma vie est là.
+
+----
+
+Cover: 
+
+----
+
+Tpl: texte

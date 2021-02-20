@@ -1,0 +1,39 @@
+Title: 34
+
+----
+
+Sl: La dernière fois que j’ai vu
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix: 
+
+----
+
+Recitprefix: 
+
+----
+
+Text:
+
+La dernière fois que j’ai vu John Johnson Johnny, c’était pendant le confinement, au seuil des évènements, dans un petit hôtel avec vue sur le périphérique d’une ville moyenne du sud. 
+L’interdiction de circuler érigée pour endiguer la propagation du virus qui se répandait alors sur tout le pays et même le continent nous avait obligés à mille stratagèmes. J’avais ainsi voyagé avec un faux ordre de mission de mon ministère ce qui, peut-être, précipita ma chute, ou tout du moins n’encouragea pas mes supérieurs à déployer beaucoup d’efforts pour me retrouver quand j’eu disparu. A quoi bon remuer ciel et terre pour un menteur qui s’est montré indigne de la confiance accordée ? J’aimerais leur dire que c’est au nom de l’amour que j’ai enfreint les règles, mais c’est aussi au nom de l’amour que les aidant.e.s bouleversent sans fin mes certitudes. L’amour du monde de demain ou d’après demain qu’ils entendent m’enseigner afin que je sois digne d’être libre comme eux. Et leur amour me tue comme il a peut-être tué John après cette dernière nuit dont l’aube se changea en cataclysme. Alors l’amour, je le sais à présent, c’est un mot dangereux.
+
+Pour me rejoindre John s’était fait passée pour une infirmière, et c’est ainsi vêtue qu’elle a quittée l’hôtel après nôtre nuit de tendresse créative. Depuis le parking de l’hôtel désert, caché derrière la haie je la vis sortir dans son uniforme seyant un quart d’heure derrière moi, ainsi que nous le faisions toujours pour nous quitter, par souci de discrétion. Elle marchait vers sa voiture quand soudain trois policiers l’abordèrent pour requérir ses services. Je les entendis lui parler de la prison voisine où les parloirs étaient suspendues pour cause d’épidémie, ce qui rendait les détenus nerveux et irascibles. Les drogues diverses, garantes habituelles de leur calme relatif, ne pouvant plus entrer clandestinement par ces voies usuelles, la folie guettaient ces divers criminels. Ils lui ordonnèrent de la suivre dans le cadre de la réquisition de tous les personnels soignants, pour aller avec eux administrer des calmants à tout ces pauvres gens. Je les vis lui montrer dans le coffre de leur fourgonnette bleue marine, une pleine valise d’anesthésiant vétérinaires et autres sédatifs capables d’assommer un troupeau de chevaux. Elle ne put dire ni oui, ni non, craignant de révéler par son accent hollandais l’imposture de son déguisement, elle hocha simplement la tête et les suivit.
+Bien sur elle aurait pu avouer la supercherie, mais on l’aurait alors arrêtée et  condamnée pour faux et usage de faux, et elle aurait aussi finit en prison où le taux de mortalité déjà élevé avant le confinement était devenu vertigineux. Elle partit avec eux, droguer des gens, être contaminée sans doute, je ne la reverrais plus, et le vernis bleu azur de ses ongles pointus me griffe encore parfois les jour de grand beau temps.
+Mais de cela je ne préfère pas parler.  On ne sait jamais. Les aidant.e.s savent tant de choses sur moi que je n’ai jamais dites. Peut-être lisent-ils mon journal avec des caméras miniatures, de la taille d’une fourmi pareilles à celles qui grimpent le long des murs.
+
+La fille qui a tué le cerf empaillé en portait elle aussi, du vernis bleu azur. Un hasard. J’ai vu ses mains de loin, avant qu’elle ne les dissimule dans les poches de son pantalon noir et si bien ajusté. Et elle n’est pas la seule. L’aidant qui m’a donné mercredi dernier un cours de très grande civilité en avait sur les ongles de deux doigts de la main gauche et trois de la main droite. Toute la journée il m’a parlé du capitalisme médiéval, celui des marchands italiens, armateurs, commerçants, bailleurs de fond qui tous dans leurs comptes intégraient ce qu’on appelait “la part de dieu“. Celle de l’église qui limitait l’accumulation de richesse, la condamnait souvent, pour demeurer moralement supérieure. “Alors mon bon, quelle serait selon toi le dieu laïc à qui nous devrions aujourd’hui réserver une part afin de limiter et même d’empêcher les excès financiers de tout les gens comme toi ?“ me demanda-t’il plusieurs fois. 
+Je dus rédiger une dissertation où je parlais d’écologie, de la nature qui remplace dieu, des gens comme UiEl, des trucs comme ça. Quand il m’a laissé partir il la lisait en hochant la tête. Plus tard il a frappé à ma porte et me l’a rendu en hochant toujours la tête, un fume cigarette aux lèvres. C’est à ce moment là que j’ai décidé d’essayer de m’enfuir le soir même. À cause de l’amour.
+
+----
+
+Cover: 
+
+----
+
+Tpl: texte

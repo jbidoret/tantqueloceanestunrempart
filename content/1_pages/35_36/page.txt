@@ -1,0 +1,39 @@
+Title: 36
+
+----
+
+Sl: Le dimanche je cherche
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix: 
+
+----
+
+Recitprefix: 
+
+----
+
+Text:
+
+Le dimanche je cherche l’inspiration pour de nouveaux projets, en arpentant le rail du métro aérien. Comme un oiseau en rééducation, j’apprivoise l’altitude, apprend à regarder le sol de haut, en attendant le jour où de nouveau je pourrais voler de mes propres ailes, si un jour il arrive.
+Ce long ruban de béton blanc posé sur des pylônes massifs relie le terminal à la station de tramway, désormais envahie par nombre de figuiers, et constitue ma seule promenade autorisée hors les murs. Il m’est interdit de déambuler sur les pistes hors des ateliers proposés par les aidant.e.s, car je pourrais à nouveau tenter de m’échapper et, au delà des châtiments qui pourraient m’être infligés, c’est surtout pour ma propre sécurité que l’on veut l’éviter. Le monde extérieur n’est jamais accueillant pour les gens qui comme moi portent dans leurs coiffure la marque des aidés. Pensez donc, une bande rasée à blanc sur l'arrête du crêne, comme une tonsure de moine technocrate ou une crète de punk à l'envers, croyez-moi on me reconnaitrait pour ce que je suis désormais. Un relégué.
+Sur l’ancien monorail, a 10 m au dessus des hautes herbes, des joncs et des méandres de vigne vierge recouvrant toutes les routes autour de l’aéroport, tout ce que je pourrais faire c’est choisir de mourir en sautant dans le vide, et ça ne résoudrait rien. 
+
+Long comme vingt terrains de football, le tracé de l’ancien shuttle forme un arc de cercle couvert d'une maigre jungle, dont je connais chaque centimètre carré pour l’avoir tant de fois désherbé, seul ou accompagné d’un.e aidant.e, parcouru en randonnée de résilience (comme les aidant.e.s inventeurs du "concept" appelaient ces lectures de Karl Marx en marchant sur les mains) ou en "thérapie". On me disait "imagine que ces orties jaillissant du bitume sont les ronces de ta pensée frère, tu dois les arracher", et parfois on me jetait aussi une poignée de terre avec un petit sourire ironique ou sincère. Ça dépendait, comme souvent, des jours et des aidants.e.s. 
+J’ai aussi du en balayer la surface par respect pour l'espace, en repeindre les bornes, et plusieurs des peintures réalisées lors d’un "atelier d’expression humaniste" remplacent certains des panneaux de signalisations routières qui croisent son chemin. Un monochrome bleu ciel trône à la place d’une ancienne limitation a 50 km/h; une sphère verte sur un fond de neige rouge se dresse là où était jadis un panneau de sens interdit. D’autres figurent de la neige grise sur un océan blanc, de la neige orange sur soleil aubergine, de la neige rose, de la neige bleue, de la neige vert amazonie … On nous demande de ne peindre que des formes abstraites, et la neige pour moi l’est plus que tout.  Si dieu qui qu’il soit m’accordait trois questions, je demanderais trois fois: “Y-aura-t’il de la neige à noël?“. Car alors, qui sait, l’étau autour de moi peut-être mollirait, et tout aurait une fin. 
+
+La neige me hante pour des raisons propres à ma situation, mais tout le monde y pense depuis qu’il a cessé de neiger voila bientôt quatre ans à cause -parait il- du dérèglement climatique, à cause  - disent les aidants- des “possédés“ comme moi, “apôtres fanatiques du tout économique“ qui ont ruinés la nature. Tout est de nôtre faute. Le changement climatique comme les milliers de morts durant l’épidémie sont liés dans l’esprit de ces gens à nos “coeurs écocides“; et plus encore les morts de tous ceux qui se sont suicidés durant le confinement, ivres de solitude et se sentant abandonné.e.s par le pouvoir aux mains des “non samaritains“ comme ils appellent les gens de mon “milieu de drogués à la poudre de perlimpinpin“. 
+Les humains ne vivent pas que de pain, comme on me l’a beaucoup dit depuis que je suis ici, et cela je l’entend mais qu’y puis-je ? Qu'y puis je si la plupart des citoyens ne comprennent pas que chacun est responsable de son prôpre bonheur ? Et qu'y pouvais je alors ? Confinement ou pas, chacun ses petits soucis, l'état n'a rien à voir avec ça même si il compatit. Et je compatissais dés que j'avais cinq minutes mais, mélancolique moi-même a cette époque, je n’étais jamais qu’un jeune diplômé, embauché depuis deux ans à peine par le ministère des affaires étrangères comme attaché de cabinet dans le cadre d’une mission de consultation parlementaire pour la création d’un musée des langues indo-européennes. Je ne commandais ni au virus, ni à l’envie de vivre de mes concitoyens et encore moins au ciel. Mais voilà,  pour les gens l’ENA devrait être une fabrique de père noël, et comme j’y ai étudié on attendait de moi les miracles que je n’ai pas produit, et donc je suis coupable.
+
+----
+
+Cover: 
+
+----
+
+Tpl: texte

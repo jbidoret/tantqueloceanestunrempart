@@ -14,31 +14,28 @@ Letterprefix: Cahiers de souvenances 8673
 
 ----
 
+Recitprefix: 
+
+----
+
 Text:
 
-Quand le ciel s'ouvrira 
-
-le soleil retrouvé nous fera cannibales,
-
-ivres de mois de rien et affamés de tout.
-
-De vérité, de gens, d’air, d’amour et de sexe.
-
-Et de justice aussi.
-
-A mort les micros, les valets et l’Olympe qu’ils servent et qui nous tue.
-
-A mort ces Shéhérazade et leurs mille et une vies sur le dos du pays.
-
-Leurs mensonges et leurs crimes se paieront dans l’orgie,
-
-heureuse et citoyenne, et qui sera sans fin, 
-
+Quand le ciel s'ouvrira     
+le soleil retrouvé nous fera cannibales,    
+ivres de mois de rien et affamés de tout.     
+De vérité, de gens, d’air, d’amour et de sexe.     
+Et de justice aussi.    
+À mort les micros, les valets et l’Olympe qu’ils servent et qui nous tue.    
+À mort ces Shéhérazade et leurs mille et une vies sur le dos du pays.    
+Leurs mensonges et leurs crimes se paieront dans l’orgie,    
+heureuse et citoyenne, et qui sera sans fin,     
 au nom de toutes les aurores du monde de demain.
 
 ----
 
-Cover: 
+Cover:
+
+- plan-de-travail-1-copie-6.png
 
 ----
 

@@ -1,0 +1,52 @@
+Title: 32
+
+----
+
+Sl: Salut Chloé
+
+----
+
+Emailprefix:
+
+De:  Léo Vincent <leoharkonen@gmail.com>
+à:	Chloé Dubus <chloedd@gmail.com>
+Date:	6 mars2022 21:28
+Objet:	Niet
+
+----
+
+Letterprefix: 
+
+----
+
+Recitprefix: 
+
+----
+
+Text:
+
+Salut Chloé
+
+La fin du monde n’aura pas lieu. Je sais, c’est moche, mais j’ai pensé qu’il fallait que tu le saches.
+Il n’y aura pas ces merveilleux moments d’anarchie hédoniste, cette orgie de jouissance désespérée et insouciante dont je t’ai tant parlé. C’est dommage, j’aurais bien aimé croiser ta coloc toute nue dans la rue une bouteille à la main, me jeter dans ses bras, et l’aimer toute la nuit. Comme j’aurais aimé le faire avec toutes les filles de ma rue, comme j’aurais aimé qu’elles, leurs voisins, leurs frères, leurs soeurs, leurs parents et tout le monde dans le pays fassent aussi. 
+On aurait bu, dansé, chanté, couché, fumé, mangé, brûlé toutes les chandelles par tous les bouts sans souci de demain ou des qu’en dira-t’on puisqu’il n’y en n’aurait plus.
+C’est ça croire à la fin du monde, ça donne l’immunité, la liberté, l’envie de tout tout de suite tout le temps, tant qu’on peut et parce que rien n’est grave de toute façon. Rien n’a plus d’importance puisque bientôt tout disparaîtra. C’aurait été super, mais voilà, cela n’arrivera pas, c’est comme ça.
+
+On a bien essayé d’intoxiquer le web avec différentes rumeurs mais aucune n’a marché. La sécurité informatique est de plus en plus dure, et toutes nos tentatives ont été court-circuitées beaucoup plus vite que d’habitude.
+Sans doute que depuis que l’état a autorisé la télésurveillance des examens ou le tracing des téléphones par des boîtes privées, les big brothers cotés en bourse ont pu envahir les disques durs des particuliers. Ils ont pu mettre en place des miradors cyber, des sortes de tours de guet électroniques pour guetter les intrus si tu veux, bref les ordis ont des yeux à présent, beaucoup plus qu’avant je veux dire. Les yeux de gens comme nous, des pirates embauchés comme corsaires, des traîtres à notre cause quoi, alors évidemment nos coups tordus ils les connaissent.
+
+Pourtant notre stratégie était chiadée, et on n’a pas manqué d’imagination ni de persévérance. On a tout essayé. Pirater l’institut d’astronomie par exemple, avec des images franchement élaborées, truquer leurs données, leurs graphiques et même leurs télescopes pour qu’ils croient dur comme fer que des météorites trois fois grosses comme la terre, volaient en rang serrés droit vers notre planète pour la pulvériser, mais ça n’a pas marché.
+On a aussi infiltré des laboratoires d’océanographie au Chili, en Inde, au Danemark avec des faux relevés météo annonçant des houles de 300 m, des dépressions massives s’empilant l’une sur l’autre pour que, en recoupant ces données, les scientifiques concluent à l’imminence de raz de marée en stéréo aux quatre coins du globe qui, à force, s’assembleraient en une seule vague de la taille d’un continent qui ferait le tour de la terre comme un karcher géant. Mais on a dû faire des erreurs dans les traductions en danois parce que ça non plus ça n’a pas fonctionné. 
+Je te passe les détails des autres insuccès plus ou moins cohérents parce que bon à la fin on insistait surtout pour le plaisir et pas tellement pour réussir. L’idée d’un virus mortel qui se transmet par téléphone était pas mal je trouve, mieux que la mutation des cygnes en d’immenses dragons blancs cuirassés d’une sorte d’ivoire à l’épreuve des missiles, qui réduiraient le monde en cendres en moins d’un an. Les ondes internet empoisonnées c’était bien aussi, il suffisait de respirer et en quinze jours on disparaîtrait tous. Quinze jours d’amour et de liberté pure…. enfin bref, voilà on a tout essayé, et on continuera mais je crois pas que ça marchera.
+Les gens sont tellement suspicieux qu’ils sont plus prêts à croire autant de choses qu’avant. C’est malheureux mais en un sens c’est bien. Enfin je sais pas ce que t’en penses, mais moi ça me fait du bien.
+
+
+Léo
+
+----
+
+Cover: 
+
+----
+
+Tpl: email

@@ -1,0 +1,42 @@
+Title: 21
+
+----
+
+Sl: Ce qui parvient ici
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix: 
+
+----
+
+Recitprefix: 
+
+----
+
+Text:
+
+Ce qui parvient ici est porté par les gens qui arrivent à pieds, à vélo ou à cheval, parfois aussi par des pigeons voyageurs ou des chiens colporteurs, mais eux n’amènent que des nouvelles brèves inscrites sur de petits papiers qu’on ne me montre pas. 
+Les humains, eux, charrient colis et enveloppes dont certaines contiennent les récits que je suis censé lire. Tous parlent comme je vous l’ai dit, du monde de maintenant, racontent les centres et leurs actions, leur organisation, leur histoire, les problèmes, les enjeux, les idées… un peu comme les livres d’économie que je lisais avant sauf qu’on n’y parle jamais d’argent ou de bien, on y parle que de lien et de choses en commun. 
+Il-y-à aussi les lettres qui elles parlent d’avant; des choses de la vie durant le confinement souvent, et puis de sentiments, de rêves, de regrets, bref de choses plus abstraites dont l’écho souvent se trouve dans les récits. Ce sont des extraits de correspondances trouvés dans des ordinateurs, des téléphones, ou des logements abandonnés; des mails imprimés, parfois volés, parfois ce sont aussi des mots laissés par ceux qui ont choisis de s’en aller. 
+L’idée je crois est de rassembler ces choses là pour savoir de quoi était fait le monde d’avant; de faire comme une bibliothèque de bouteilles à la mer pleines des histoires des gens, de toutes castes et de tous horizons. Grands ou petits, ils ont tous leur vérité, mais ça je l’ai toujours dis. 
+Le même projet semble animer la collecte des cahiers de souvenance qui eux chroniquent les évènements passés, les réflexions, les joies et les souffrances notées dans des journaux intimes, des blogs ou des tribunes. Pendant le confinement, nombre de gens écrivaient, par envie ou ennuie, chacun ayant à coeur de construire une trace, raconter sa nuance. Après les évènements l’enjeux était différent, il s’agissait de comprendre ou de régler des comptes, de faire exister sa voix, l’écho de son esprit par rapport à “tout ça“. D’où leur noms de « souvenances », des souvenirs de consciences, du moins c’est ce que j’en pense.
+
+C’est par ces choses que j’ai appris beaucoup de ce que vous ai dis, enfin “appris“, imaginé disons, des faits à peu près cohérents à partir de ces dires et racontars disparates auxquels sans nuances on prête foi partout autour de moi. Je les crois pour ce qu’ils disent de leurs auteurs mais, la probité et l’honneur n’étant point les valeurs de tous ces gens du peuple qui ont brulé leur pays, je demeure circonspect quand à ce qu’ils disent de lui et de son “aristocratie d’état“, pour employer leurs termes.
+Pour eux, les gens comme moi sont des vampires incestueux qui ne craignent ni le soleil ni le ridicule. Car nous sommes ridicules à leurs yeux d’avoir cherché à les défendre et à les protéger des périls sanitaires et économiques que le sort faisait pleuvoir sur nous. Parfois maladroitement et pas toujours efficacement j’en conviens, mais l’erreur est humaine, ce à quoi ils répondent que les nôtres ont été inhumaines. Je n’en peux plus de cette logorrhée toute à la gloire de “sous les pavés la plage, et sous la plage le feu, et vive le feu“. 
+Aussi fais-je en sorte d’en lire juste assez pour pouvoir en parler, comme on me l’a appris à l’ENA. Si l’écrit est important me disait-on là bas, il ne vaudra jamais la vive voix du terrain, et je met à profit ce sage conseil pour mieux me préserver des écrits de ces gens là, car ils me noient déjà dans la trop vive voie de leur terrain de jeu expérimental.
+
+L’important en politique est toujours que l’autre se sente considéré, et les aidant.e.s, si avant gardistes se pensent-ils n’échappent pas à cette règle. Tout ce qui compte pour eux, je crois l’avoir compris, c’est qu’ils sentent que comme eux je cherche dans le monde qui change à inventer ma voie, qu’en somme je suis comme eux. Même si moi, ma voie, je la cherche plus qu’eux, parce que je n'ai pas le choix et donc j’y pense tout le temps.
+Même le samedi où je fais mon ménage et ma lessive, et le dimanche où je m’en vais marcher, seul jour où il m’arrive de connaitre un instant de répit. En marchant je ressent, par moments et pas vraiment souvent, non pas de l’espoir, mais une chose nue, étrangère, à tous mes sentiments comme à ceux des aidants ou des gens. Quelque chose qui me dit que la vie n’est pas finie.
+
+----
+
+Cover: 
+
+----
+
+Tpl: texte

@@ -19,6 +19,10 @@ Letterprefix:
 
 ----
 
+Recitprefix: 
+
+----
+
 Text:
 
 Mes chers et chères compatriotes,
@@ -43,7 +47,7 @@ Voyez donc de quel bois ils sont fait. Voyez comme ces fonctionnaires en fieffé
 
 Mais je m’égare. Ah! Chassez le naturel et il revient de pas loin hein. Baste que tout cela. Foin de politique disais-je, parlons donc de la vie, la vraie, celle pour laquelle nous avons tant œuvré. Celle des bonheurs simples, du partage, de la famille et du bien vivre ensemble. Que vous dire ? Mon épouse s’occupe du jardin, tient la maison en ordre, embellit chaque pièces de fleurs et de peintures entre ses mille et une lecture, mes enfants élèvent leurs propres enfants, et moi pour tout vous dire, je m’ennuie à mourir.  
 
-Enfin non, une fois n’est pas coutume je vous parlerais sans fard. Autant y aller franchement, et vous le dire vraiment comme je le ressent : je me fais chier, voilà. Il faut dire ce qui est. Je m’emmerde et ça me met dans une colère noire. J’enrage de ne pouvoir agir aujourd’hui, comme de ne pas avoir plus fait hier, de ne pas avoir été assez loin dans mes réformes. Si l’hôpital était privé comme je l’avais préconisé, on en serait pas là ! Voila ce que je dis moi. Tout comme j’enrage d’être à part de la vie, loin de vous, loin de tout
+Enfin non, une fois n’est pas coutume je vous parlerais sans fard. Autant y aller franchement, et vous le dire vraiment comme je le ressens : je me fais chier, voilà. Il faut dire ce qui est. Je m’emmerde et ça me met dans une colère noire. J’enrage de ne pouvoir agir aujourd’hui, comme de ne pas avoir plus fait hier, de ne pas avoir été assez loin dans mes réformes. Si l’hôpital était privé comme je l’avais préconisé, on en serait pas là ! Voila ce que je dis moi. Tout comme j’enrage d’être à part de la vie, loin de vous, loin de tout
 
 Pardonnez la crudité du langage mais comme je vous l’ai dit c’est a la bonne franquette hein, pas de chichi entre nous. Je m’ennuie en effet, violemment, tellement vous me manquez. Tellement tout me manque. Le débat, les mains serrés, la boule qui gonflait dans ma gorge comme la lune dans le ciel au moment de parler devant des foules en transe républicaine. Vous, avec qui je partageais tant. La chaleur de vôtre soutien, vos sourires, les étoiles dans vos yeux quand je portais haut vos couleurs… tout cela me hante comme la haute mer hante souvent les marins quand ils reviennent a terre.
 
@@ -55,7 +59,9 @@ Alors moi tout va bien oui, c’est sur, je n’ai aucun problèmes, ni financie
 
 ----
 
-Cover: 
+Cover:
+
+- plan-de-travail-1-copie-10.png
 
 ----
 

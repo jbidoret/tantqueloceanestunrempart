@@ -1,0 +1,44 @@
+Title: 26
+
+----
+
+Sl: Je suis un homme qui a servi l’état,
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix: 
+
+----
+
+Recitprefix: 
+
+----
+
+Text:
+
+Je suis un homme qui a servi l’état, ancien haut fonctionnaire, diplômé de l’ENA, et je suis un problème, pour les autres et pour moi. Je traine mon histoire tel un boulet dont l’invisible chaine s’enroule sur ma gorge comme le nœud d’un gibet, mais ne me tue jamais. Au contraire elle me rappelle sans cesse combien, prisonnier du présent que j’aimerais ignorer, j’erre obligé de vivre comme dans une insomnie quand je voudrais dormir, ne rien voir, rien savoir du monde des aidant.e.s et de leurs quolibets. Le mot est un peu fort mais je perçois ainsi les mille sobriquets dont je suis affublé, qui forment les maillons de cette chaine me reliant à ce fichu passé, et dont l’évolution marque le temps qui passe.
+
+“Perdu de la life”, “pauvre ami” ou “fils de la mytholepsie” sont fréquents aujourd’hui, et ce dernier terme témoigne de la considération nouvelle dont je bénéficie. Plus clinique, moins goguenarde, peu aimable certes, mais enfin pragmatique là où jadis elle n’était que moqueuse. Est *mytholepse* en effet le malade de la représentation de soi, celui qui dans la vie fuit toute identité pour constament prétendre au bénéfice du doute.
+
+Tel un acteur dans une pièce de théâtre qui jouerait tous les rôles à la fois, il travestit sans fin son costume et son texte, de sorte qu’il devient impossible de distinguer en lui le vrai du faux, l’homme du comédien. Le pouvoir en est un, de théâtre, j’en ai foulé les planches donc je suis un menteur, mythomane volontaire, sociopathe à mes heures, car sous les projecteurs on devient forcément cette sorte d’horreur. C’est une maladie et j’en suis le produit, d’où le “fils“ me désignant coupable en tant que citoyen mais également victime du milieu pathogène dans lequel j’ai grandi en tant qu’être inhumain. Je ne sais pas si je dois trouver ça gentil, mais au moins on m’accorde quelque indulgence à présent.
+
+C’est mieux qu’au tout début quand on me répétait tous les jours à quel point j’étais “con”, et même “complètement con”. Pas “naïf”, pas “stupide”, “prétentieux” ou “ imbu”, non, “con” c’est le mot qu’il me fallait employer pour me nommer moi même. 
+
+“Demeuré volontaire” ou “égaré du cœur” aurait pu également convenir mais on nous répétait alors sur tous les tons que le premier pas vers la renaissance est la lucidité, et qu’elle est sans pitié. Nous, moi et les gens comme moi avec qui j’étais au début, je veux dire. Avant qu’on nous sépare pour que, ne pouvant nous renvoyer entre nous l’image complaisante dont nous sommes soit disant des drogués, nous soyons obligés de nous voir comme les autres nous voient, c’est à dire comme des “cons”. 
+C’est bien ce que nous étions alors dans les yeux des aidant.e.s, de “pauvres cons” et rien d’autre. Qu’on nous le dise avec lassitude, mépris ou compassion ne changeait rien à l’affaire, ici on ne nous estimait guère et même si les termes ont changé depuis, on nous tient toujours pour des sortes de déchets.
+
+On ne nous aime pas, on ne nous hait pas non plus, pas vraiment, en tout cas pas depuis la fin de l’été dernier. On nous aide, parce qu’on pense que nous avons des problèmes, que nous ne sommes pas équipés, pas prêts, pas inspirés, pour contribuer au nouveau monde moderne. Celui qui s’invente partout ailleurs au fil des saisons et auquel, que nous le voulions ou non, nous appartenons. Alors on me le répète encore parfois, à moi comme aux autres j’imagine: nous sommes tous issus de la même “bande de cons”, notre évolution est une question d’intérêt général, et elle commence par le renouvellement de nôtre perception.
+
+C’est l’un des enjeux du programme, peut-être même le plus grand d’entre tous, transformer notre regard pour grandir, ne serait-ce qu’un peu ; cesser d’être des gamins immatures, ivres de toute puissance, narcissiques et puérils, pour devenir adultes, ou quelque chose de proche. Mon dieu que c’est difficile, vertigineux, violent, nous étions des sculpteurs, dansions avec le marbre sur les cimes de l’Olympe et nous voila maçons, à écorcher nos mains sur des murs en parpaings. Je sais que vous ne pleurerez point, mais se plaindre, comme vous dites, cela “ne mange pas de pain”, non ?
+
+----
+
+Cover: 
+
+----
+
+Tpl: texte

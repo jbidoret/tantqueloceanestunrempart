@@ -14,9 +14,13 @@ Letterprefix:
 
 ----
 
+Recitprefix: 
+
+----
+
 Text:
 
-Dans les flaques de l’archipel, quelques oiseaux buvaient. J’avais soif moi aussi, faim, mal à la tête à cause des coups de cake, et le sucre de toutes les pâtisseries écrasées sur mon visage m’avait écorché la peau mais, vraiment, je m’en sortais bien me disais-je encore en longeant la tour de contrôle n°7. L’étrange sentiment que la terre ne tournait pas dans le bon sens ressenti peu avant la première tarte hier au soir acheva de se dissiper quelques mètres plus loin quand j'atteignis l’orée du bosquet de bambous, là où quinze jours plus tôt j’avais participé à un atelier d’extension agricole du domaine du football.
+Dans les flaques de l’archipel, quelques oiseaux buvaient. J’avais soif moi aussi, faim, mal à la tête à cause des coups de cake, et le sucre de toutes les pâtisseries écrasées sur mon visage m’avait écorché la peau mais, vraiment, je m’en sortais bien me disais-je encore en longeant la tour de contrôle n°7. L’étrange sentiment que la terre ne tournait pas dans le bon sens, ressenti peu avant la première tarte hier au soir, acheva de se dissiper quelques mètres plus loin quand j'atteignis l’orée du bosquet de bambous, là où quinze jours plus tôt j’avais participé à un atelier d’extension agricole du domaine du football.
 
 Dessinées à la craie sur la piste 60, les lignes du terrain formaient le réceptacle des idées de chacun, des aidant.e.s principalement, quelques permanent.e.s aussi, et moi que l’on encourageait sans trêve à jeter mes carcans aux orties pour “habiter“ l’espace. Il ne s’agissait pas en effet d’imaginer y faire pousser le gazon le plus souple et plus résistant afin que le talent des joueurs puisse s’exprimer au mieux, mais au contraire de proposer les circonstances végétales les plus personnelles possibles pour s’exprimer soi à travers le terrain, sans se soucier de l’intérêt supérieur du jeu.
 L’intérêt supérieur il n’y en n’avait pas qu’un, tout le monde avait le sien et l’enjeu était de les convertir tous en morceaux de terrain pour que le jeu lui-même s’adapte aux “visions“ des uns et des autres, et non l’inverse. L’un des permanent.e.s avait ainsi entrepris de faire pousser des bambous près du poteau de corner, parce que disait-il, leur présence inspirerait le mystère et la lointaine Asie, qu’en plus leurs troncs souples obligeraient à dribbler et qu’il aimait les arabesques des manieurs de ballon. Un autre avait planté des rosiers afin que la délicatesse des fleurs suggère la douceur bien plus que l’affrontement. Parmi les épines, les joueurs devraient marcher, mûrir chaque pas comme les vers d’un poème, ce serait d’une délicatesse follement improbable. Peupliers, séquoïas, pommiers ou cactus peuplaient le reste du rectangle et chaque contributeur évoquait à travers eux ses désirs d’un jeu plus ouvert, multiple, polymorphe, un jeu fait de métamorphoses et de composition face aux circonstances de la vie du ballon, plutôt qu’une forme d’action s’imposant à tout le reste et obligeant les arbres et les fleurs à s’élever ailleurs. 
@@ -27,7 +31,9 @@ Est-ce pour cela que le soir venant, contemplant le fruit de nos efforts, quelqu
 
 ----
 
-Cover: 
+Cover:
+
+- plan-de-travail-1-copie-9.png
 
 ----
 

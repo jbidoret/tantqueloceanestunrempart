@@ -1,0 +1,42 @@
+Title: 18
+
+----
+
+Sl: Dans un rêve cette
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix: 
+
+----
+
+Recitprefix: (email: Cromwello@homail.com)
+
+----
+
+Text:
+
+Dans un rêve cette nuit je marchais sous la pluie le coeur gros et le bagage mince, parmi les flaques d’eau où flottaient des lambeaux de feuilles mortes. Telles des débris de navires minuscules elles voguaient pathétiques sur ces lacs confus pour elles gigantesques, qui tous mimaient vaguement la grisaille océane. 
+Je pensais à chaque pas à tous les naufragés de ces embarcations, j’avais froid, et pas la moindre idée de l’endroit où j’allais mais j’y allais jusqu’à ce que je trébuche et me réveille soudain dans un dortoir en pierre où s’alignaient des lits superposés. 
+
+Je me touchais les cheveux, ils n’étaient pas mouillés, “j’ai rêvé“ me disais-je toujours dans ce même rêve. Je regardais les lits, échelonnées sur trois niveaux le long des murs de granit qui s’étiraient d’un coté comme de l’autre jusqu’à l’obscurité. 
+Le mien était à peu près au milieu, entre la tâche d’ombre où s’évanouissait l’allée centrale à droite, et son reflet à gauche qui, étrangement, semblait un peu plus clair. 
+C’est vers lui que j’allais en sortant de mon lit du bas, pieds nus, enveloppé d’une fourrure de rossignol-grizzly, un ours avec des ailes, de la taille d’une girafe à peu prés, cela semblait courant dans l’endroit où j’étais.
+Je m’avançais, longeais les lits tous pleins de dormeurs dont les visages ne me disaient rien et qui tous pourtant me semblaient familiers. Sur les planches bordant les matelas étaient écrites à la craie les “situations“ de tous ces gens. “Rêve d’Esteban / songe d’Isabelle / cauchemar de Warren / vision de Gaëlla ..etc..“, l’obscurité reculait devant moi à chaque pas, et soudain je fut dehors en haut d’une colline. 
+
+En contrebas s’étendait une ville et au milieu trônait un immeuble-château, un building avec un pont levis, des tours, et de hauts murs aux vagues reflets de sable. Sans bien savoir comment, je me trouvais l’instant d’après devant ses portes grandes ouvertes et entrais à grandes enjambées, bien que je me sente intimidé.
+Dans la cour, des hommes portant des costumes gris joyeux, un peu comme des croques morts à un bal costumé, jetaient à bouts de bras des animaux entiers dans d’énormes brasiers. Une foule de silhouettes les regardait adossée aux murailles, oui une foule de formes ressemblant à des gens qui murmuraient entre eux des choses sur ceux qu’ils appelaient “les glorieux gentlemen“. 
+Le ciel au dessus de tout cela était mauve ou lilas, j’avais toujours froid et le feu colossal ne me réchauffait pas. Veaux, vaches, cochons, taureaux, poulets, licornes et ours de la taille d’éléphants brulaient mais revenaient. Ils partaient en fumée sans crier, puis ressortaient de terre, un à un à travers les pavés, je ne savais pas comment, et puis ils s’en retournaient dans l’enclos où les hommes les piochaient de leurs fortes mains lisses. 
+Je regardais longtemps un bouquetin à trois cornes, puis les flammes, puis la foule trouble comme la ligne d’horizon les jours de canicule. Je commençais à me réchauffer, et soudain  j’entendis : “Police“.
+
+----
+
+Cover: 
+
+----
+
+Tpl: recit

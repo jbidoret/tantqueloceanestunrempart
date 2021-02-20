@@ -1,0 +1,59 @@
+Title: 27
+
+----
+
+Sl: Mourir à même pas vingt-cinq ans
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix:
+
+Hippocrate mon amour
+avr. 2022
+
+----
+
+Recitprefix: 
+
+----
+
+Text:
+
+Mourir à même pas vingt-cinq ans dans l’hôpital où on travaille pour 1,08 euros de l’heure c’est pas humain, mais pour nos dirigeants l’humain ça sert à rien.
+
+Pour nous un peu quand même mais comme ils le disent très justement on n’est pas là pour faire de la philo.
+L’humain c’est un truc dépassé à leurs yeux, et mes camarades contaminés et morts en remplaçant des infirmiers chevronnés alors qu’ils étaient même pas diplômés, étaient sans doute complètement à côté de la plaque question modernité. Pas adaptés, immatures quoi, ce qui n’est pas étonnant à mon avis, vu nos âges, mais mon opinion est d’une bêtise indécente elle aussi parce que de même que le travail n’a rien a voir avec l’humanité, la maturité n’a rien à voir avec l’âge. C’est juste une question de position dans le bâtiment, et tous les personnels soignants sont dans l’aile des imbéciles qui se plaignent tout le temps.
+
+Ceux dans l’aile administrative sont adultes, eux, bien plus intelligents, tellement plus courageux, la preuve ils ont le sens du sacrifice, même si c’est celui des autres. En guerre, il faut préserver les stratèges et ils savent très bien le faire, comme quand ils nous expliquent que c’est normal qu’on meure au nom de ce qu’ils appellent “l’intérêt général”, et qu’on peut pas comprendre parce que encore une fois on n’est pas là pour ça.
+
+Jeremy, lui, il s’est suicidé mais c’est une anecdote. Une toute petite partie d’un immense accident industriel qu’on va appeler la politique de santé, qui a causé 100 000 morts en cinq mois et qui en causera d’autres. 
+
+C’est comme un meurtre avec des centaines de sous traitants, tous cadres, dirigeants, administrateurs, tous ceux qui savent assurer la continuité économique du service sanitaire et des grands projets pour l’hôpital dont on ne fait pas partie parce qu’on est des petites mains, qu’on n’est préoccupés que de nos petites vies et qu’on ne sait pas compter. 
+
+La preuve : on n’est même pas capable de compter les morts tellement il y en a plein les couloirs, mais c’est pas étonnant, on ne sait même pas lire. 
+
+Les mails culpabilisants qu’on reçoit tous les jours par exemple, ceux qui nous rendent responsables d’à peu près tout, pour nous c’est du chinois. On n’y arrive pas. Alors on nous répète leurs contenus, au téléphone, en réunion, jusqu’à ce qu’on pleure ou qu’on crie. Parce qu’en plus on est lâches, on cherche de fausses excuses comme le manque de moyens, l’impossibilité de faire autre chose que de  laisser les gens s’étouffer dans leur bave, se noyer dans leurs glaires, pourrir dans leurs excréments, tellement on est démunis, tellement on manque de tout ici. Et depuis hier, on manque aussi de Jeremy.
+
+Quand je l’ai retrouvé, couché sur le lino dans la salle de repos j’ai cru qu’il dormait, mais les boites de propofol vide autour de lui ne m’ont pas laissé me raconter d’histoires bien longtemps. Pourtant je m’en raconte beaucoup des histoires, enfin non, une seule mais tout le temps. Je me dis qu’on va y arriver, qu’un jour ça ira mieux, même si je n’y crois pas, ça m’aide à … je sais … être là.
+
+L’histoire de Jeremy c’est qu’il s’est noyé dans les torrents de salive que le virus faisait bouillonner dans sa gorge tandis qu’il sombrait dans la brume des sédatifs. Cette histoire la, je pourrais jamais la dire. 
+
+Si je la tweetai tout de suite, je me ferais arrêter dans une heure, et on m’enverrait creuser des fosses communes dans le sud. Alors je l’écris ici pour qu’il reste quelque chose de lui sur terre, comme font les gens dans les Ehpad. 
+
+J’imagine que personne ne le sait, mais les soignants là-bas, gravent les noms des morts dans les montants en fer blanc des lits, tous ces vieux qu’on enterre par wagons et dont la direction veut effacer la trace. Certains lits sont couverts de ces lettres griffées, comme des hiéroglyphes scarifiés sur des épées.
+
+C’est tout ce qu’ils peuvent faire, les aide-soignants, et puis ça leur sert de couverture, ils disent que c’est pas eux, que ce sont les vieux qui gravent ces lettres avec un couteau, une paire de ciseaux, ou simplement leurs ongles.
+
+Jeremy, lui, n’était pas vieux, il était comme nous tous, étudiant.e.s réquisitionné.e.s comme chair à canon sanitaire pour aller se faire contaminer en première ligne, mais à la fin ça ne fait pas de différence. On n’était rien hier, on n’est rien aujourd’hui, et on ne sera rien demain. Et quand on crèvera on sera encore moins.
+
+----
+
+Cover: 
+
+----
+
+Tpl: lettre

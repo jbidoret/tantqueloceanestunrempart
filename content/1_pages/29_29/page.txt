@@ -1,0 +1,49 @@
+Title: 29
+
+----
+
+Sl: La nuit tous les chats sont gris
+
+----
+
+Emailprefix: 
+
+----
+
+Letterprefix: 
+
+----
+
+Recitprefix: 
+
+----
+
+Text:
+
+La nuit tous les chats sont gris, paraît-il, et au crépuscule les gens se ressemblent tous, je trouve. L’aidant.e est un loup pour l’homme le jour, mais quand arrive le soir nous sommes tous égaux, ne serait-ce qu’un temps, face au monde qui s’efface. Et j’aime cette sensation, surtout le samedi, parenthèse orpheline entre ma journée de tâches ménagères ponctuant ma semaine de labeur et mon dimanche de marche et d’oubli. 
+
+Depuis ma fenêtre faisant face aux baies vitrées du Terminal, je regarde les ombres de la forêt lentement se mêler à la nuit sur les pistes que les aidant.e.s traversent pour s’en aller.
+
+Ils seront restés neuf jours, plus que les précédents (sept) mais moins que ceux d’avant (vingt et un). Je n’ai jamais compris ni le pourquoi ni le comment du renouvellement permanent, je sais simplement que, ouf, ces aidants.e.s là s’en vont je ne sais où. Sans doute vers d’autres endroits comme celui-ci dans les montagnes ou les villes à demi désertes. Un de ces ailleurs où l’on invente paraît-il par mille voies, d’autre vies que l’ancienne. 
+
+Je sais peu de choses de ces territoires, à part ce qu’en racontent les récits, et le peu qu’on m’en dit. Il y a des fermes verticales (des immeubles de permaculture), des open-sourcerie (des endroits où l’on répertorie savoirs-faire et savoirs-être qui tous ont le même prix), des troquasins (magasins de troc), des marchés à prix libre et conscientit ou pas, et des chamaneries, sorte de cliniques où l’on soigne l’âme et le corps avec des transes, des tisanes, des prières à UiEl et des huiles essentielles.
+
+Avant le confinement fleurissaient déjà ces havres de charlatans, officines gauchisantes et séditieuses à souhait où l’on prétendait, au nom d’une sorte de méta-bon sens mêlant recettes de grand-mère et délire new-age, détenir un pouvoir guérisseur à même de soigner toutes les plaies, à commencer par celles causées par les forces de l’ordre. 
+
+Des flyers promettaient en effet aux éborgnés par les tirs de LBD de faire renaître leurs yeux, aux mutilés de faire repousser leurs mains arrachées par le souffle de grenades de désencerclement, etc. Comble de l’indécence, ces mêmes gens éditaient divers manuels de désobéissance civile du genre “comment manifester sans se faire estropier par la police fasciste” ou “Le guide spirituel du militantisme immortel : survivre à la boucherie par la médecine naturelle”. Des inepties. 
+
+Si les forces de l’ordre faisaient usage de la force c’était pour faire mal, et en professionnels qu’ils étaient, ils y arrivaient très bien. Parce que justement ils étaient du coté du bien. Eh oui, il ne faut pas être très futé-malin pour voir là une forme de justice poétique ou divine je ne sais pas, mais en tout cas logique : les policiers avaient bien raison, et la raison les rendaient plus forts, comme elle rendait jadis les démocraties grecques plus fortes que les civilisations barbares qu’elles surpassaient en tout. Donc oui c’était bien “la loi du plus fort” mais du plus fort, virgule, parce que plus raisonnable. CQFD.
+
+Si donc les gens étaient blessés, c’est qu’ils l’avaient bien mérité et qu’ils n'avaient pas assez bien raisonné, et donc qu'ils avaient tort, la preuve ils avaient mal. Les huiles essentielles de sésame ou de ciboulette n’y pouvaient ni n’y pourraient jamais rien, et sans doute cela explique-t-il pourquoi après le confinement les gens se sont soulevés. 
+
+Avant la pandémie, le corps était une frontière, le capital que les gens désiraient préserver et qui donc en retenait beaucoup d’aller manifester, par peur de le voir démoli. C’est en les menaçant physiquement (et légitimement) que l’état arrivait encore à raisonner les citoyens les plus chamailleurs. Mais, voyant autour d’eux les malades et les morts s’accumuler, les agitateurs et les autres ont perdu tout sens de ces valeurs. Et la peur, qui jusque là était comme le nord orientant infailliblement l’aiguille de leur boussole émotionnelle dans la bonne direction, est devenue raison de destruction. Car elle s’était changée en la peur de mourir de toute façon, que ce soit le crâne fendu par une matraque (assénée de plein droit sur l'occiput) ou les poumons dévorés par un microbe, quelle importance désormais, autant se battre ont-ils songé. 
+
+Beaucoup m’ont dit qu’ainsi va la vie, qu’il n’y a que ça que comprennent les dominants, la langue des gens qui n’ont plus rien à perdre. Bien sûr je ne suis pas d’accord, et ces mots là sont pour moi inacceptables dans un état de droit, mais cet état est mort et je me garde bien de qualifier celui dans lequel nous vivons désormais, hormis peut-être les jours de canicule, car y penser me fait froid dans le dos.
+
+----
+
+Cover: 
+
+----
+
+Tpl: texte
