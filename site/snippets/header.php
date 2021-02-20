@@ -20,8 +20,11 @@
     data-intended-template="<?php echo $page->intendedTemplate() ?>">
 
     <header class="header">
+        <figure>
+            <img src="<?= url('assets/css/hokusai.png') ?>" alt="">
+        </figure>
         <a class="logo" href="<?= $site->url() ?>">
-        Tant que<br> l’océan<br> est un<br> rempart
+            Tant que l’océan<br> est un rempart
         </a>
     </header>
 

@@ -24,6 +24,12 @@
     $`nav`.classList.toggle('opened');
   })
 
+  $`nav`.addEventListener('click', event => {
+    if(event.target.matches('a')) {
+      $`nav`.classList.toggle('opened');
+    }
+  })
+
   // logo
   const last = $`article:last-of-type`.id;
   $`.logo`.setAttribute('href', "#" + last);
