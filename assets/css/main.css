@@ -202,7 +202,7 @@ nav button{
     text-align: left;
     outline: none;
     position: absolute;
-    right: var(--padding);
+    right: 0;
     padding: .5rem var(--padding);
     font-family: "JetbrainsMono";
 }
@@ -211,7 +211,7 @@ nav ul {
     display: none;
     display: block;
     background: white;
-    padding: .65rem var(--padding);
+    padding: .65rem calc(var(--padding) * 2) .65rem var(--padding);
     width: 100%;    
 }
 nav.opened ul{ display: block;}
