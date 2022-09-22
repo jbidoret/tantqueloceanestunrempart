@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Messapia";
+  src: url("Messapia-Bold.woff") format("woff"),
+      url("Messapia-Bold.woff2") format("woff2");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Messapia";
+  src: url("Messapia-Regular.woff") format("woff"),
+      url("Messapia-Regular.woff2") format("woff2");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "SneakyTimes";
+  src: url("Sneaky-Times.woff") format("woff"),
+      url("Sneaky-Times.woff2") format("woff2");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: url("JetBrainsMono-Regular.woff") format("woff"),
+      url("JetBrainsMono-Regular.woff2") format("woff2");
+      font-weight: 400;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: url("JetBrainsMono-Bold.woff") format("woff"),
+      url("JetBrainsMono-Bold.woff2") format("woff2");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: url("JetBrainsMono-Italic.woff") format("woff"),
+      url("JetBrainsMono-Italic.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: url("JetBrainsMono-Medium.woff") format("woff"),
+      url("JetBrainsMono-Medium.woff") format("woff2");
+  font-weight: 500;
+}
