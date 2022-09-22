@@ -1,3 +1,11 @@
 :root{
-  --basesize: 1.25rem;
+  --bigsize: 1.75em;
+  --margin: 3rem;
+  --padding: 1.5rem;
+  --gradient: linear-gradient(0deg, rgb(3, 63, 119) 0%, rgb(75, 129, 179) 100%);
+  --gradient2: linear-gradient(0deg, rgb(3, 63, 119) 0%, rgb(129, 184, 236) 100%);
+}
+::selection {
+  background-color: black;
+  color: #eee;
 }

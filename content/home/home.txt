@@ -1,13 +1,1 @@
-Title: Home !
-
-----
-
-Text: 
-
-----
-
-Metadescription: 
-
-----
-
-Metaimage:
+Title: Home
